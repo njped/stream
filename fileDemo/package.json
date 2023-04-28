@@ -1,0 +1,15 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "stream demo",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "stream"
+  },
+  "author": "Nathan Pedigo",
+  "license": "ISC"
+}
